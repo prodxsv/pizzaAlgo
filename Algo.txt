@@ -2,3 +2,5 @@
 2. Decide which type of pizza to order.
 3. Call the resturaunt.
 4. Tell them what we want.
+5. Tell them the address.
+6. Wait for our pizza.
